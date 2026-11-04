@@ -1,4 +1,4 @@
-# Bionic DNA Image Storage
+# Codon DNA Image Storage
 
 Reference implementation of a codon-inspired framework for perceptually robust DNA image storage. This repository provides the 640-codeword codebook, image codec, selective Reed-Solomon (RS) protection, cross-copy neural reconstruction, pretrained checkpoints and example inputs.
 
